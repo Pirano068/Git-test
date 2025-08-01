@@ -1,5 +1,6 @@
 def __init__(arg):
     arg +=1 
+    print(arg)
     return arg 
 
-init(3) 
+__init__(3) 
