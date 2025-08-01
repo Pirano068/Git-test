@@ -5,3 +5,9 @@ def tructropcool(c= str, n =int):
     return n
 
 tructropcool("hello", 4)
+
+def autruccool(j =int):
+    print (j*3)
+    return j 
+
+autruccool(3)
